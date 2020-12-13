@@ -139,12 +139,15 @@ h1 {
   }
   
   .btn {
+    top: 50%;
     width: 12rem;
     padding: 1.2rem;
   }
   
-  
-  /* "minha" versão de celular */
+}
+
+/* "minha" versão de celular */
+@media (max-width: 630px) {
   /* parte da inversão de animação (de width para height) */
   .split {
     width: 100%;
