@@ -142,10 +142,9 @@ h1 {
     width: 12rem;
     padding: 1.2rem;
   }
-}
-
-/* "minha" versão de celular */
-@media (max-width: 400px) {
+  
+  
+  /* "minha" versão de celular */
   /* parte da inversão de animação (de width para height) */
   .split {
     width: 100%;
